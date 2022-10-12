@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{36C09EEF-40C6-4F42-AF92-99E030641D4E}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QzDemo", "QzDemo\QzDemo.csproj", "{1DEF5860-516D-43C3-BCE9-A00A905CFDB4}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QzDemo.Core", "QzDemo.Core\QzDemo.Core.csproj", "{5DD7DCDD-1CD8-4ED9-B195-5CB61860DF2B}"
@@ -17,10 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{36C09EEF-40C6-4F42-AF92-99E030641D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{36C09EEF-40C6-4F42-AF92-99E030641D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{36C09EEF-40C6-4F42-AF92-99E030641D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{36C09EEF-40C6-4F42-AF92-99E030641D4E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1DEF5860-516D-43C3-BCE9-A00A905CFDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1DEF5860-516D-43C3-BCE9-A00A905CFDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DEF5860-516D-43C3-BCE9-A00A905CFDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
